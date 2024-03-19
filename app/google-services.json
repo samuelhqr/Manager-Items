@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1030585393359",
+    "project_id": "minhaoficina-7f527",
+    "storage_bucket": "minhaoficina-7f527.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1030585393359:android:ca6be20119006adc30d7ba",
+        "android_client_info": {
+          "package_name": "com.mundoti.minhaoficina"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfqGnq3ZsyvV75q2FonLzbPMGiog6XDiw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

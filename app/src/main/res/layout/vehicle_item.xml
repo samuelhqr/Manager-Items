@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:padding="16dp">
+
+    <TextView
+        android:id="@+id/txtModelo"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Modelo: "
+        android:textSize="18sp"
+        android:textStyle="bold"
+        android:layout_alignParentStart="true"
+        android:hint="Insira o modelo do veículo" />
+
+    <TextView
+        android:id="@+id/txtMarca"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/txtModelo"
+        android:text="Marca: "
+        android:layout_alignParentStart="true"
+        android:hint="Insira a marca do veículo" />
+
+    <TextView
+        android:id="@+id/txtAno"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/txtMarca"
+        android:text="Ano: "
+        android:layout_alignParentStart="true"
+        android:hint="Insira o ano do veículo" />
+
+    <TextView
+        android:id="@+id/txtDono"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/txtAno"
+        android:text="Dono: "
+        android:layout_alignParentStart="true"
+        android:hint="Insira o nome do dono do veículo" />
+
+    <TextView
+        android:id="@+id/txtObservacao"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/txtDono"
+        android:text="Observação: "
+        android:layout_alignParentStart="true"
+        android:hint="Insira observações adicionais sobre o veículo" />
+
+    <Button
+        android:id="@+id/btnDelete"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/txtAno"
+        android:layout_alignParentEnd="true"
+        android:layout_marginTop="-41dp"
+        android:layout_marginEnd="11dp"
+        android:text="Excluir" />
+
+</RelativeLayout>

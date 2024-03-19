@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Minha Oficina</string>
+    <string name="email">Email</string>
+    <string name="senha">Senha</string>
+    <string name="cadastre_se">Cadastre-se</string>
+    <string name="esqueceu_a_senha_ou_email_recupere_aqui">Esqueceu a Senha ou email? Recupere aqui</string>
+    <string name="email_">Email</string>
+    <string name="senha_">Senha</string>
+    <string name="cadastrar">Cadastrar</string>
+    <string name="j_tem_uma_conta_fa_a_login_aqui">Já tem uma conta? Faça login aqui</string>
+    <string name="open_drawer" />
+    <string name="close_drawer" />
+</resources>
