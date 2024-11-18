@@ -1,1 +1,1 @@
-Android Studio com Firebase app estão items.
+Android Studio com Firebase, app gstão items.
