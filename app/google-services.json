@@ -1,13 +1,13 @@
 {
   "project_info": {
-    "project_number": "1030585393359",
-    "project_id": "minhaoficina-7f527",
-    "storage_bucket": "minhaoficina-7f527.appspot.com"
+    "project_number": "408730016033",
+    "project_id": "minha-oficina-f7327",
+    "storage_bucket": "minha-oficina-f7327.firebasestorage.app"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:1030585393359:android:ca6be20119006adc30d7ba",
+        "mobilesdk_app_id": "1:408730016033:android:f8f6d0bc097920277d8660",
         "android_client_info": {
           "package_name": "com.mundoti.minhaoficina"
         }
@@ -15,7 +15,7 @@
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyCfqGnq3ZsyvV75q2FonLzbPMGiog6XDiw"
+          "current_key": "AIzaSyArNfbYVLvAT11CQi6GQi79j_dkgNsPDAE"
         }
       ],
       "services": {
